@@ -1,2 +1,2 @@
 # Java-abstraction
-That is a example of java abstraction
+This is an example of java abstraction
